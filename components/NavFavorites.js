@@ -9,13 +9,13 @@ const NavFavorites = () => {
             id: "123",
             icon: "home",
             location: "Home",
-            destination: "Code Street, London, UK"
+            destination: "Boston, Cape Town, South Africa"
         },
         {
             id: "456",
             icon: "briefcase",
             location: "Work",
-            destination: "London Eye, London, UK"
+            destination: "Boston, Cape Town, South Africa"
         }
     ]
 
