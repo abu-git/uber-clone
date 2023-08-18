@@ -1,4 +1,4 @@
-# uber-clone
+# Uber clone application
 
 ![](https://github.com/abu-git/uber-eats-clone/blob/main/assets/gif/uber-clone-demo.gif)
 
