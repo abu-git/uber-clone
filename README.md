@@ -11,4 +11,10 @@ This is a React Native application that aims to replicate the basic functionalit
 + Redux
 + Tailwind
 
+## Other APIs Used
++ Google Places AutoComplete
++ Google Maps
++ Maps Direction
++ Distance Matrix
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
